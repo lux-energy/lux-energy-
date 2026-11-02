@@ -1,0 +1,15 @@
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.staging.example
+**/node_modules/
+**/dist/
+**/coverage/
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/pnpm-debug.log*
+backend/private_uploads/
+backend/src/uploads/
+backend/scripts/hashPassword.js
+database/seed.sql
